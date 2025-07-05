@@ -10,3 +10,6 @@ console.log(a + '')
 //string to number
 let b = "3"
 console.log(typeof +b);
+console.log(parseInt(a));   // 123
+console.log(parseFloat("4.56"));// 4.56
+console.log(str * 1);
