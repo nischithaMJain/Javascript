@@ -10,3 +10,4 @@ function checkLeapYear(year) {
     return 'IT is not a leap year'
 }
 checkLeapYear(2003)
+module.exports = checkLeapYear;
